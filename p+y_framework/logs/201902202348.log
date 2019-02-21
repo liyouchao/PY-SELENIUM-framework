@@ -1,0 +1,29 @@
+2019-02-20 23:48:46,781 - BrowserEngine - INFO - you had select chrome browser.
+2019-02-20 23:48:46,781 - BrowserEngine - INFO - the test server url is : https://www.baidu.com
+2019-02-20 23:48:53,486 - BrowserEngine - INFO - starting chrome browser.
+2019-02-20 23:48:58,118 - BrowserEngine - INFO - open url : https://www.baidu.com
+2019-02-20 23:48:59,257 - BrowserEngine - INFO - maximize the current window.
+2019-02-20 23:48:59,261 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2019-02-20 23:48:59,513 - BasePage - INFO - had find the element \ '  'successfulby id via vaule: kw 
+2019-02-20 23:48:59,633 - BasePage - INFO - had type 'selenium 'in inputBox 
+2019-02-20 23:48:59,665 - BasePage - INFO - had find the element ' 'successgulby xpath via value ://*[@id='su']
+2019-02-20 23:48:59,896 - BasePage - INFO - the element ' ' was clicked .
+2019-02-20 23:49:03,275 - BasePage - INFO - had take screenshot and to folder : /screenshots
+2019-02-20 23:49:06,408 - BrowserEngine - INFO - you had select chrome browser.
+2019-02-20 23:49:06,408 - BrowserEngine - INFO - the test server url is : https://www.baidu.com
+2019-02-20 23:49:13,379 - BrowserEngine - INFO - starting chrome browser.
+2019-02-20 23:49:16,692 - BrowserEngine - INFO - open url : https://www.baidu.com
+2019-02-20 23:49:17,813 - BrowserEngine - INFO - maximize the current window.
+2019-02-20 23:49:17,813 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2019-02-20 23:49:17,853 - BasePage - INFO - had find the element \ '  'successfulby id via vaule: kw 
+2019-02-20 23:49:18,026 - BasePage - INFO - had type 'python 'in inputBox 
+2019-02-20 23:49:18,074 - BasePage - INFO - had find the element ' 'successgulby xpath via value ://*[@id='su']
+2019-02-20 23:49:18,178 - BasePage - INFO - the element ' ' was clicked .
+2019-02-20 23:49:26,317 - BrowserEngine - INFO - you had select chrome browser.
+2019-02-20 23:49:26,317 - BrowserEngine - INFO - the test server url is : https://www.baidu.com
+2019-02-20 23:49:32,522 - BrowserEngine - INFO - starting chrome browser.
+2019-02-20 23:49:36,162 - BrowserEngine - INFO - open url : https://www.baidu.com
+2019-02-20 23:49:37,311 - BrowserEngine - INFO - maximize the current window.
+2019-02-20 23:49:37,311 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2019-02-20 23:49:37,315 - BasePage - INFO - current page title is 百度一下，你就知道 
+2019-02-20 23:49:37,335 - BasePage - INFO - current page title is 百度一下，你就知道 

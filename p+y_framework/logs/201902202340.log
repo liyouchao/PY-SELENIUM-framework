@@ -1,0 +1,21 @@
+2019-02-20 23:40:43,897 - BrowserEngine - INFO - you had select chrome browser.
+2019-02-20 23:40:43,897 - BrowserEngine - INFO - the test server url is : https://www.baidu.com
+2019-02-20 23:40:50,879 - BrowserEngine - INFO - starting chrome browser.
+2019-02-20 23:40:55,638 - BrowserEngine - INFO - open url : https://www.baidu.com
+2019-02-20 23:40:56,769 - BrowserEngine - INFO - maximize the current window.
+2019-02-20 23:40:56,769 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2019-02-20 23:40:57,079 - BasePage - INFO - had find the element \ '  'successfulby id via vaule: kw 
+2019-02-20 23:40:57,219 - BasePage - INFO - had type 'selenium 'in inputBox 
+2019-02-20 23:40:57,271 - BasePage - INFO - had find the element ' 'successgulby xpath via value ://*[@id='su']
+2019-02-20 23:40:57,391 - BasePage - INFO - the element ' ' was clicked .
+2019-02-20 23:40:59,842 - BasePage - INFO - had take screenshot and to folder : /screenshots
+2019-02-20 23:41:03,074 - BrowserEngine - INFO - you had select chrome browser.
+2019-02-20 23:41:03,077 - BrowserEngine - INFO - the test server url is : https://www.baidu.com
+2019-02-20 23:41:09,995 - BrowserEngine - INFO - starting chrome browser.
+2019-02-20 23:41:14,176 - BrowserEngine - INFO - open url : https://www.baidu.com
+2019-02-20 23:41:15,306 - BrowserEngine - INFO - maximize the current window.
+2019-02-20 23:41:15,306 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2019-02-20 23:41:15,356 - BasePage - INFO - had find the element \ '  'successfulby id via vaule: kw 
+2019-02-20 23:41:15,552 - BasePage - INFO - had type 'python 'in inputBox 
+2019-02-20 23:41:15,604 - BasePage - INFO - had find the element ' 'successgulby xpath via value ://*[@id='su']
+2019-02-20 23:41:15,719 - BasePage - INFO - the element ' ' was clicked .

@@ -1,0 +1,11 @@
+2019-02-20 12:28:26,123 - BrowserEngine - INFO - you had select chrome browser.
+2019-02-20 12:28:26,153 - BrowserEngine - INFO - the test server url is : https://www.baidu.com
+2019-02-20 12:28:53,444 - BrowserEngine - INFO - starting chrome browser.
+2019-02-20 12:29:05,811 - BrowserEngine - INFO - open url : https://www.baidu.com
+2019-02-20 12:29:07,110 - BrowserEngine - INFO - maximize the current window.
+2019-02-20 12:29:07,111 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2019-02-20 12:29:17,286 - BasePage - INFO - NoSuchElementException : Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@ad='u1']/a[@name='tj_trnews']"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.16299 x86_64)
+
+2019-02-20 12:29:17,641 - BasePage - INFO - had take screenshot and to folder : /screenshots

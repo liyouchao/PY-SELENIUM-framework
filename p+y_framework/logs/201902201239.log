@@ -1,0 +1,7 @@
+2019-02-20 12:39:40,034 - BrowserEngine - INFO - you had select chrome browser.
+2019-02-20 12:39:40,035 - BrowserEngine - INFO - the test server url is : https://www.baidu.com
+2019-02-20 12:39:47,842 - BrowserEngine - INFO - starting chrome browser.
+2019-02-20 12:39:52,301 - BrowserEngine - INFO - open url : https://www.baidu.com
+2019-02-20 12:39:53,443 - BrowserEngine - INFO - maximize the current window.
+2019-02-20 12:39:53,444 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2019-02-20 12:39:53,485 - BasePage - INFO - had find the element 'пбне 'successgulby xpath via value ://*[@id='u1']/a[1]

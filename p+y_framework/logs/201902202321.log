@@ -1,0 +1,18 @@
+2019-02-20 23:21:31,922 - BrowserEngine - INFO - you had select chrome browser.
+2019-02-20 23:21:31,922 - BrowserEngine - INFO - the test server url is : https://www.baidu.com
+2019-02-20 23:21:46,363 - BrowserEngine - INFO - starting chrome browser.
+2019-02-20 23:21:48,560 - BrowserEngine - INFO - open url : https://www.baidu.com
+2019-02-20 23:21:49,816 - BrowserEngine - INFO - maximize the current window.
+2019-02-20 23:21:49,816 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2019-02-20 23:21:50,452 - BasePage - INFO - had find the element \ '  'successfulby id via vaule: kw 
+2019-02-20 23:21:50,712 - BasePage - INFO - had type 'selenium 'in inputBox 
+2019-02-20 23:21:50,844 - BasePage - INFO - had find the element ' 'successgulby xpath via value ://*[@id='su']
+2019-02-20 23:21:51,964 - BasePage - INFO - the element ' ' was clicked .
+2019-02-20 23:21:54,766 - BasePage - INFO - had take screenshot and to folder : /screenshots
+2019-02-20 23:21:58,108 - BrowserEngine - INFO - you had select chrome browser.
+2019-02-20 23:21:58,108 - BrowserEngine - INFO - the test server url is : https://www.baidu.com
+2019-02-20 23:22:04,909 - BrowserEngine - INFO - starting chrome browser.
+2019-02-20 23:22:10,421 - BrowserEngine - INFO - open url : https://www.baidu.com
+2019-02-20 23:22:11,558 - BrowserEngine - INFO - maximize the current window.
+2019-02-20 23:22:11,558 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2019-02-20 23:22:11,568 - BasePage - INFO - current page title is 百度一下，你就知道 
